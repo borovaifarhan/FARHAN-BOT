@@ -9,15 +9,15 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "Gok-Gok",
-  "PREFIX": "+",
+  "BOTNAME": "𝐅𝐀𝐑𝐇𝐀𝐍 𝐁𝐎𝐓_______:* 3:) :* 3:)",
+  "PREFIX": "/",
   "react": "☠️",
   "OPERATOR": [
     "",
     "100000959749712"
   ],
   "ADMINBOT": [
-    "61574244623043",
+    "61575054151785",
     "61561619394932"
   ],
   "OWNER": ["100000959749712"], 
